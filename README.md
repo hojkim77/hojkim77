@@ -7,6 +7,9 @@
 
 ✨ I strive to write maintainable, readable code with simple, consistent abstractions.
 
+- e-mail: ghwnd5048@naver.com
+- blog: https://ghwndrla.tistory.com/
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 
